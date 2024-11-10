@@ -1,0 +1,6 @@
+img2vec_pytorch
+pillow
+openai
+flask
+scikit-learn
+python-dotenv
